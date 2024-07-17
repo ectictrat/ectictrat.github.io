@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ectictrat.github.io/sitemap
+Sitemap: https://ectictrat.github.io/app/sitemap
+Sitemap: https://ectictrat.github.io/assets/sitemap
+Sitemap: https://ectictrat.github.io/css/sitemap
+Sitemap: https://ectictrat.github.io/includes/sitemap
+Sitemap: https://ectictrat.github.io/item/sitemap
+Sitemap: https://ectictrat.github.io/src/sitemap
